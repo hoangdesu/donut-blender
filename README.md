@@ -1,12 +1,6 @@
 # Donut
 
-Install [Git LFS](https://git-lfs.com/) to pull large <code>.blend</code> files
-
-```
-brew install git-lfs
-git lfs install
-git clone https://github.com/hoangdesu/donut-blender.git
-```
+Download the blend files
 
 ## Progress
 
