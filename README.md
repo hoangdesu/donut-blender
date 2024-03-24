@@ -37,4 +37,4 @@ to here 👏
 
 ## Final video render
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/U80lGjGRc80/0.jpg)](https://www.youtube.com/watch?v=U80lGjGRc80&ab_channel=BrianNguyen)
+[![Watch on youtube](https://img.youtube.com/vi/U80lGjGRc80/0.jpg)](https://www.youtube.com/watch?v=U80lGjGRc80&ab_channel=BrianNguyen)
