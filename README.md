@@ -33,7 +33,8 @@ We came a long way from here
 
 to here 👏
 
-![](./renders/FINAL/thumbnail2.jpg)
+![thumbnail2](https://github.com/hoangdesu/donut-blender/assets/38454021/a4a25c99-e4b4-4ab1-bcfd-22ed4468697b)
+
 
 ## Final video render
 
